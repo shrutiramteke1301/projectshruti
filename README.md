@@ -1,4 +1,4 @@
 # projectshruti
 fist
 <br>
-autor shruti
+autor shruti  ruchika
